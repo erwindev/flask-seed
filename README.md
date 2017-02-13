@@ -18,7 +18,7 @@ $ pip install virtualenv
 
 **Step 1: Clone the git repo**
 ```
-$ git clone   
+$ git clone https://github.com/erwindev/flask-seed.git  
 ```
 
 **Step 2: Create the virtual environment.**  
