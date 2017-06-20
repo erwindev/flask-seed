@@ -22,7 +22,6 @@ $ git clone https://github.com/erwindev/flask-seed.git
 ```
 
 **Step 2: Create the virtual environment.**  
-You will need to do this in the sz-training folder.
 ```
 $ virtualenv -p /usr/local/bin/python3 venv
 $ source venv/bin/activate
