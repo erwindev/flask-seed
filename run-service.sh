@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
-source env.current
+source env.settings
 python application.py db upgrade
 python service.py
