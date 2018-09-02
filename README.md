@@ -15,9 +15,9 @@ $ brew install python3
 $ pip install virtualenv
 ```
 * [Install PostgreSQL](https://wiki.postgresql.org/wiki/Detailed_installation_guides)
-* I would highly suggest installing[Postgress.app](https://postgresapp.com/).  For an Admin Tool, I recommend[PgAdmin](https://www.pgadmin.org/).
+* I would highly suggest installing [Postgress.app](https://postgresapp.com/).  For an Admin Tool, I recommend [PgAdmin](https://www.pgadmin.org/).
 
-**Step 1: Scaffold a Flask Seed project using[cookiecutter](https://cookiecutter-pypackage.readthedocs.io/en/latest/)**
+**Step 1: Scaffold a Flask Seed project using [cookiecutter](https://cookiecutter-pypackage.readthedocs.io/en/latest/)**
 * Install cookiecutter
 ```
 $ brew install cookiecutter
